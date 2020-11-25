@@ -1,0 +1,39 @@
+{
+  "items": [
+    {
+      "title": "Первый",
+      "text": "Тут была текстовая часть",
+      "mail": "some@mail.ru",
+      "choose": "bread",
+      "multiChoose": [
+        "fork"
+      ],
+      "diode": true,
+      "diodeColor": "green",
+      "id": 1
+    },
+    {
+      "title": "Second",
+      "text": "Some text",
+      "mail": "fu@vue.js",
+      "choose": "water",
+      "multiChoose": [
+        "spoon",
+        "knife"
+      ],
+      "diode": false,
+      "diodeColor": "",
+      "id": 2
+    },
+    {
+      "title": "Красная лампочка",
+      "text": "ffdp Group",
+      "mail": "rand@mu.ne",
+      "choose": "bread",
+      "multiChoose": [],
+      "diode": true,
+      "diodeColor": "red",
+      "id": 3
+    }
+  ]
+}
